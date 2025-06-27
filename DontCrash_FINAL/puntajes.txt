@@ -1,0 +1,17 @@
+Lucho: 8: DIFÍCIL
+Lucho: 2: NORMAL
+Lucho: 2: FÁCIL
+Luchito: 3: FÁCIL
+Lucho: 3: FÁCIL
+Lucho: 2: FÁCIL
+Lucho: 2: FÁCIL
+Lucho: 2: FÁCIL
+Lucho: 2: FÁCIL
+Lucho: 2: FÁCIL
+Lucho: 2: FÁCIL
+Lucho: 1: NORMAL
+Luchicoaojdaosd: 1: NORMAL
+adsd: 1: NORMAL
+a: 2: NORMAL
+a: 7: NORMAL
+f: 6: FÁCIL
